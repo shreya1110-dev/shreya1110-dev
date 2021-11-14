@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya Sriram
-- 👀 I’m interested in working on real world projects on Web Development, Big Data
+- 👀 I’m interested in working on real world projects on Web Development
 - 🌱 I’m currently learning AI and ML
 
 <!---
